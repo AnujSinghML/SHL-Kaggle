@@ -1,7 +1,13 @@
 # SHL-Kaggle
 This repository contains a detailed, well documented jupyter-notebook (.ipynb file) that I submitted in the Kaggle competition shl-intern-hiring-assessment.
+> ⚠️ **Competition Code Notice**  
+> This repository contains code submitted to a Kaggle competition.  
+> It is shared **only for portfolio and recruiter reference**.  
+> **Reuse, modification, or redistribution of this code is not allowed**.  
+> Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-link to competition : [https://www.kaggle.com/competitions/shl-hiring-assessment](https://www.kaggle.com/competitions/shl-hiring-assessment)
+
+Link to the competition : [https://www.kaggle.com/competitions/shl-hiring-assessment](https://www.kaggle.com/competitions/shl-hiring-assessment)
 
 Please refer the notebook for details, it has comments everywhere required and markdown cells for documentation and clarity.
 
