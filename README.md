@@ -5,7 +5,8 @@ link to competition : [https://www.kaggle.com/competitions/shl-hiring-assessment
 
 Please refer the notebook for details, it has comments everywhere required and markdown cells for documentation and clarity.
 
-You can also find it on Kaggle : [https://www.kaggle.com/code/anujsinghml/anujsingh-shl](https://www.kaggle.com/code/anujsinghml/anujsingh-shl)
+You can also find it on Kaggle : [https://www.kaggle.com/code/anujsinghml/anuj-singh-intern-shl](https://www.kaggle.com/code/anujsinghml/anuj-singh-intern-shl)
 
 # Important Note
 I have added the files after the step of transcribing_audio using Whisper. As that step takes high GPU power and more than 2 hours, I have saved it for direct use and testing of rest of the code.
+
